@@ -14,11 +14,16 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-// Hey, I have changed this file at Line 17.
-// Also, at Line 18.
+
+// Hey, I have changed this file at Line 18.
+// Also, at Line 19.
+
 #include "harness.h"
 #include "queue.h"
-// Let us add another comment at line 21.
+
+// Let us add another comment at line 24.
+// Haha at Line 25.
+
 /*
   Create empty queue.
   Return NULL if could not allocate space.
