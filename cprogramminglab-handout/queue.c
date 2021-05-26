@@ -63,6 +63,7 @@ bool q_insert_head(queue_t *q, char *s)
     return true;
 }
 
+// Let us try once more and add a comment at Line 66.
 
 /*
   Attempt to insert element at tail of queue.
